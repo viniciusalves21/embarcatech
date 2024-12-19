@@ -210,3 +210,5 @@ for (i=0; i<4; i++)
 
     return 0;
 }
+
+//Bora continuar de struct e funções mané
