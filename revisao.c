@@ -212,3 +212,5 @@ for (i=0; i<4; i++)
 }
 
 //Bora continuar de struct e funções mané
+
+//MODIFIQUEI AQUI DEPOIS DA CRIAÇÃO DA BRANCH RAMO 2
